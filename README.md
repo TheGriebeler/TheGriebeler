@@ -1,7 +1,10 @@
-<ul>
-  <li> 🌱 Atualmente estou aprendendo HTML, CSS e Javascript </li>
-  <li> 😄 Pronomes: ele/dele </li>
-</ul>
+# Olá! Eu sou Daniel Griebeler 🚀
+
+<div align="center">
+  <a href="https://github.com/TheGriebeler">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TheGriebeler&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheGriebeler&layout=compact&langs_count=7&theme=dark">
+</div>
 
  ##
   <div align="center">
@@ -18,6 +21,5 @@
     <a href = "mailto:danielc.griebeler22@gmail.com" target="_blank"><img height="30px" target="_blank" src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email-pedro-button"></a>
     <br><br>
     <img height="150px" src="https://c.tenor.com/t25bzXBi65kAAAAC/workworkwork-typingcat.gif" alt="">
- 
   </div>
  
