@@ -2,14 +2,8 @@
   <li> 🌱 Atualmente estou aprendendo HTML, CSS e Javascript </li>
   <li> 😄 Pronomes: ele/dele </li>
 </ul>
-  
-   <div align="center">
-  <a href="https://github.com/TheGriebeler">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pllsg96&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pllsg96&layout=compact&langs_count=7&theme=vision-friendly-dark">
-</div>
-  
-  ##
+
+ ##
   <div align="center">
     <img align="center" alt="Daniel-HTML" height="60px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="Daniel-CSS" height="60px" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
